@@ -13,3 +13,4 @@ star_wars_matrix
 
 all_wars_matrix <- cbind(star_wars_matrix, worldwide_vector)
 all_wars_matrix
+all_wars_matrix
